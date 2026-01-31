@@ -2,7 +2,7 @@ public class HW1 {
     public static void section1(){
         Employee employee = new Employee();
 
-        employee.setName("Дарья");
+        employee.setName("Даша");
         employee.setAge(13);
         employee.setSalary(50000);
 
