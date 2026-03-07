@@ -38,6 +38,7 @@ public class HW6 {
         guests.add("Константин");
         guests.add("Мария");
         guests.add("Константин");
+        guests.add("Дарья");
 
         System.out.println(guests);
     }
